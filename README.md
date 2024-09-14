@@ -13,7 +13,21 @@ A simple and efficient Todo app to help users organize their tasks. The app feat
 
 
 ## Screenshots
-_(Include screenshots or GIFs of your app here)_
+
+Here are some screenshots of the app in action:
+
+### Login Screen
+![Login Screen](assets/screenshots/login.png)
+
+### Home Screen
+![Home Screen](assets/screenshots/register.png)
+
+### Task Details
+![Task Details](assets/screenshots/home_screen.png)
+
+### Setting Screen
+![Setting Screen](assets/screenshots/setting_screen.png)
+
 
 ## Getting Started
 
