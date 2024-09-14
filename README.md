@@ -16,25 +16,16 @@ A simple and efficient Todo app to help users organize their tasks. The app feat
 
 Here are some screenshots of the app in action:
 
+## 1-Light Mode
+
 <p align="center">
   <img src="assets/screenshots/login.png" alt="Login Screen" width="30%" />
-  <img src="assets/screenshots/register.png" alt="Home Screen" width="30%" />
-  <img src="assets/screenshots/home_screen.png" alt="Task Details" width="30%" />
+  <img src="assets/screenshots/register.png" alt="Register Screen" width="30%" />
+  <img src="assets/screenshots/home_screen.png" alt="Home screen" width="30%" />
+  <img src="assets/screenshots/setting_screen.png" alt="Setting Screen" width="30%" />
 </p>
 
-# 1-Light Mode
 
-### Login Screen
-![Login Screen](assets/screenshots/login.png)
-
-### Home Screen
-![Home Screen](assets/screenshots/register.png)
-
-### Task Details
-![Task Details](assets/screenshots/home_screen.png)
-
-### Setting Screen
-![Setting Screen](assets/screenshots/setting_screen.png)
 
 # 2-Dark Mode 
 
