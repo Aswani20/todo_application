@@ -19,10 +19,10 @@ Here are some screenshots of the app in action:
 ## 1-Light Mode
 
 <p align="center">
-  <img src="assets/screenshots/login.png" alt="Login Screen" width="30%" />
-  <img src="assets/screenshots/register.png" alt="Register Screen" width="30%" />
-  <img src="assets/screenshots/home_screen.png" alt="Home screen" width="30%" />
-  <img src="assets/screenshots/setting_screen.png" alt="Setting Screen" width="30%" />
+  <img src="assets/screenshots/login.png" alt="Login Screen" width="20%" />
+  <img src="assets/screenshots/register.png" alt="Register Screen" width="20%" />
+  <img src="assets/screenshots/home_screen.png" alt="Home screen" width="20%" />
+  <img src="assets/screenshots/setting_screen.png" alt="Setting Screen" width="20%" />
 </p>
 
 
