@@ -27,7 +27,7 @@ Here are some screenshots of the app in action:
 
 
 
-# 2-Dark Mode 
+**2-Dark Mode** 
 
 <p align="center">
   <img src="assets/screenshots/login_dark.png" alt="Login Screen" width="20%" />
