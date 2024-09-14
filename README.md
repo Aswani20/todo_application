@@ -65,8 +65,10 @@ These instructions will help you set up the project on your local machine.
 ```text
 lib/
 ├── main.dart                  # Entry point of the app
-├── auth/                   # All app screens (Login, Home, Task)
-├── dialog_utils/                   # Custom widgets used across the app
-├── home/                    # Data models for tasks, users, etc.
-├── l10n/              # Firebase and other services
-└── providers/                 # State management using Provider
+├── firebase_utils.dart        # Firebase-related utilities
+├── my_theme.dart              # Theme configurations for light and dark modes
+├── auth/                      # Authentication screens (e.g., Login, Register)
+├── dialog_utils/              # Custom widgets used across the app
+├── home/                      # Main app screens and logic (e.g., Task management)
+├── l10n/                      # Localization files and configurations
+└── providers/                 # State management using Provider      
