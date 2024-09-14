@@ -30,7 +30,7 @@ Here are some screenshots of the app in action:
 ### Setting Screen
 ![Setting Screen](assets/screenshots/setting_screen.png)
 
-2-Dark Mode 
+# 2-Dark Mode 
 
 ### Login Screen
 ![Login Screen](assets/screenshots/login_dark.png)
