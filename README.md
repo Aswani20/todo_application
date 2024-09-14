@@ -16,6 +16,8 @@ A simple and efficient Todo app to help users organize their tasks. The app feat
 
 Here are some screenshots of the app in action:
 
+1-Light Mode
+
 ### Login Screen
 ![Login Screen](assets/screenshots/login.png)
 
@@ -28,6 +30,19 @@ Here are some screenshots of the app in action:
 ### Setting Screen
 ![Setting Screen](assets/screenshots/setting_screen.png)
 
+2-Dark Mode 
+
+### Login Screen
+![Login Screen](assets/screenshots/login_dark.png)
+
+### Home Screen
+![Home Screen](assets/screenshots/register_dark.png)
+
+### Task Details
+![Task Details](assets/screenshots/home_dark.png)
+
+### Setting Screen
+![Setting Screen](assets/screenshots/setting_dark.png)
 
 ## Getting Started
 
